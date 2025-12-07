@@ -1,4 +1,10 @@
+
 # Structure du Projet
+<img width="1428" height="517" alt="image" src="https://github.com/user-attachments/assets/e8a5f309-21c0-4f76-a088-745bc8d0e234" />
+<img width="1414" height="784" alt="image" src="https://github.com/user-attachments/assets/3a0e48f8-2452-4d73-881f-337cc98a47e7" />
+<img width="1414" height="604" alt="image" src="https://github.com/user-attachments/assets/4aca275c-213e-44bd-9657-8197035b719e" />
+<img width="1420" height="522" alt="image" src="https://github.com/user-attachments/assets/7a69fbfd-bb62-4456-a4c4-fefcfa540f96" />
+
 
 ## Aperçu
 
